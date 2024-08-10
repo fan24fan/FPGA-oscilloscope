@@ -1,0 +1,143 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/None/flow_led/sim
+vclk_div
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;:;oi6mKDB9`2;zbQzQ_:1
+IoLCUhCan>97h5Kf5n>[=j3
+Z1 dF:/project/qsys_gui_oscp/sim
+w1621491123
+8F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/clk_div.v
+FF:/project/qsys_gui_oscp/rtl/lcd_rgb_top/clk_div.v
+Z2 L0 24
+Z3 OL;L;10.4;61
+!s108 1621913188.126000
+!s107 F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/clk_div.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/clk_div.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vlcd_clip
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 m:4CNPZ]WCCkQ[XaLOV]30
+Ib_O`b2NCdcXOHJfMeOmOn1
+R1
+w1621859034
+8F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_clip.v
+FF:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_clip.v
+R2
+R3
+!s108 1621913188.191000
+!s107 F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_clip.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_clip.v|
+!i113 0
+R4
+vlcd_display
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 aPbi?n7zDE2MPzRBLhgbH2
+IESTmXRXbfaCU:WmTfe:FG2
+R1
+w1621910238
+8F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_display.v
+FF:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_display.v
+R2
+R3
+!s108 1621913188.276000
+!s107 F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_display.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_display.v|
+!i113 0
+R4
+vlcd_driver
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 P@h<8bl[?9z@:LD27U2Wh1
+I4M1UjQnKAV781028]KFB63
+R1
+w1621580887
+8F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_driver.v
+FF:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_driver.v
+R2
+R3
+!s108 1621913188.345000
+!s107 F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_driver.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_driver.v|
+!i113 0
+R4
+vlcd_rgb_top
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 0zM8ia@i01OQT1l=Ej[BO1
+I>inSNAkA1DknnU[moUDE82
+R1
+w1621828736
+8F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_rgb_top.v
+FF:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_rgb_top.v
+L0 23
+R3
+!s108 1621913188.407000
+!s107 F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_rgb_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_rgb_top.v|
+!i113 0
+R4
+vrd_id
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 R<D8zci<>N@>oQaQ9?gb20
+IHT>c?SFg;Wlf5RRhN88Yn1
+R1
+w1621393290
+8F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/rd_id.v
+FF:/project/qsys_gui_oscp/rtl/lcd_rgb_top/rd_id.v
+R2
+R3
+!s108 1621913187.991000
+!s107 F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/rd_id.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/rd_id.v|
+!i113 0
+R4
+vtb_lcd_rgb_top
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 `jPQf4ES>`RTDdP8cC3kG1
+Ioz:S@A`>m@[50MM@Smd>a0
+R1
+w1621913169
+8F:/project/qsys_gui_oscp/sim/tb/tb_lcd_rgb_top.v
+FF:/project/qsys_gui_oscp/sim/tb/tb_lcd_rgb_top.v
+L0 26
+R3
+!s108 1621913187.906000
+!s107 F:/project/qsys_gui_oscp/sim/tb/tb_lcd_rgb_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/project/qsys_gui_oscp/sim/tb/tb_lcd_rgb_top.v|
+!i113 0
+R4

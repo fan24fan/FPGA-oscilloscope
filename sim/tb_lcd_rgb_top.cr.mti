@@ -1,0 +1,50 @@
+F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_clip.v {1 {vlog -work work -vopt -stats=none F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_clip.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module lcd_clip
+
+Top level modules:
+	lcd_clip
+
+} {} {}} F:/project/qsys_gui_oscp/sim/tb/tb_lcd_rgb_top.v {1 {vlog -work work -vopt -stats=none F:/project/qsys_gui_oscp/sim/tb/tb_lcd_rgb_top.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module tb_lcd_rgb_top
+
+Top level modules:
+	tb_lcd_rgb_top
+
+} {} {}} F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_driver.v {1 {vlog -work work -vopt -stats=none F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_driver.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module lcd_driver
+
+Top level modules:
+	lcd_driver
+
+} {} {}} F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/rd_id.v {1 {vlog -work work -vopt -stats=none F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/rd_id.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module rd_id
+
+Top level modules:
+	rd_id
+
+} {} {}} F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_rgb_top.v {1 {vlog -work work -vopt -stats=none F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_rgb_top.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module lcd_rgb_top
+
+Top level modules:
+	lcd_rgb_top
+
+} {} {}} F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_display.v {1 {vlog -work work -vopt -stats=none F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/lcd_display.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module lcd_display
+
+Top level modules:
+	lcd_display
+
+} {} {}} F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/clk_div.v {1 {vlog -work work -vopt -stats=none F:/project/qsys_gui_oscp/rtl/lcd_rgb_top/clk_div.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module clk_div
+
+Top level modules:
+	clk_div
+
+} {} {}}
